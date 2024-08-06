@@ -8,6 +8,12 @@ Upsatge API를 활용하여 미술 작품에 대해 궁금한 점을 질의 응�
 ```
 UPSTAGE_API_KEY=up_71ks...
 ```
+
+python 환경을 구축하고 필요한 패키지를 다운받습니다.
+```
+pip install -r requirements.txt
+```
+
 run.py 파이썬 파일을 실행해 gradio demo 챗봇을 실행할 수 있습니다.
 ```
 python run.py
