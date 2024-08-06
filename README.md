@@ -20,6 +20,8 @@ python run.py
 ```
 
 이후 http://127.0.0.1:7870 로컬 서버에 접속하여 작품에 대한 QA를 진행할 수 있습니다.
+
+
 ![image](https://github.com/user-attachments/assets/ae52b753-37f4-4845-8a15-651f131b1ca3)
 
 
