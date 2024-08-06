@@ -18,12 +18,13 @@ run.py 파이썬 파일을 실행해 gradio demo 챗봇을 실행할 수 있습�
 ```
 python run.py
 ```
-이후 검색을 통해서 설명을 듣고싶은 작품을 검색한 뒤 해당 작품에 대해서 질문할 수 있습니다.
 
-![image](https://github.com/dudcjs2779/upstage-mini-project-art-chatbot/assets/42354230/d409b8a2-5e2d-4068-b3cf-2b17b09ee1af)
+http://127.0.0.1:7870 로컬 서버에 접속하여 작품에 대한 QA를 진행할 수 있습니다.
+![image](https://github.com/user-attachments/assets/ae52b753-37f4-4845-8a15-651f131b1ca3)
+
 
 ### 데모 시연
-https://youtu.be/ddIHzZyz7vM
+https://youtu.be/tEPAbOXvj0w
 
 ### etc
 미술작품 데이터
