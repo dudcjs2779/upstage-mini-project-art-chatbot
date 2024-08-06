@@ -28,4 +28,4 @@ https://youtu.be/tEPAbOXvj0w
 
 ### etc
 미술작품 데이터
-- [국립현대미술관](https://www.mmca.go.kr/)의 50개의 미술작품 데이터를 수집
+- [국립현대미술관](https://www.mmca.go.kr/)의 130개의 미술작품 데이터를 수집
