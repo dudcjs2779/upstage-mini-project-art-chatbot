@@ -380,7 +380,7 @@ with gr.Blocks(title="DocentAI", css=css, theme=gr.themes.Soft()) as demo:
                 gr.Markdown("<p style='text-align: center; font-size: 14px; margin-bottom: 1rem'>작품에 대해 궁금한게 있다면 말씀해주세요!</p>")
 
                 custom_chatbot  = gr.Chatbot(height=600)
-                msg = gr.Textbox()
+                msg = gr.Textbox(placeholder="여기에 궁금한걸 물어보세요!", show_label=False)
                 sim_art_tb = gr.Textbox(label="sim_art_tb", visible=False)
 
                 with gr.Row(visible=True):
@@ -447,7 +447,7 @@ with gr.Blocks(title="DocentAI", css=css, theme=gr.themes.Soft()) as demo:
                 gr.Markdown("<p style='text-align: center; font-size: 14px; margin-bottom: 1rem'>작품에 대해 궁금한게 있다면 말씀해주세요!</p>")
                 
                 custom_art_chatbot  = gr.Chatbot(height=600)
-                msg = gr.Textbox()
+                msg = gr.Textbox(placeholder="여기에 궁금한걸 물어보세요!", show_label=False)
                 sim_art_tb = gr.Textbox(label="sim_art_tb", visible=False)
 
                 with gr.Row(visible=True):

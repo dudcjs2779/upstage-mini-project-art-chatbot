@@ -9,9 +9,16 @@ chroma_db/
 # data
 # data/*
 
+Dockerfile
+data/backup/*
+
 multimodalchatbot/*
 my_test_project/
 test.ipynb
 crawling.ipynb
 test.py
 test/*
+release.py
+release.ipynb
+
+.gitignore
